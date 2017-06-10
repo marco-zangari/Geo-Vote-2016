@@ -1,0 +1,57 @@
+    html {
+      height: 100%;
+      background-color:lightblue;
+    }
+    body {
+       height: 100%;
+    }
+
+    img {
+      background-color:lightblue;
+      padding-right:300px;
+      width:450px;
+    }
+
+    header {
+        background-color:lightblue;
+        padding:5px;
+        font-size: 23;
+        display: block;
+        width: 790px;
+    }
+    nav {
+        line-height:18px;
+        background-color:lightblue;
+        width:175px;
+        padding-right:625px;
+        margin-right: 3px;
+        display: inline-block;
+        vertical-align: right;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: grey;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
